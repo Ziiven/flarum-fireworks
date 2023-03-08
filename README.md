@@ -1,4 +1,4 @@
-# Firework 烟花
+# Fireworks 烟花
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg) 
 
